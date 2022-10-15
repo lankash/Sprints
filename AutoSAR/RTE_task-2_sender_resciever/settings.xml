@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToolSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/SAAT.ConfigHandler">
+  <MaxProjectsSaved>5</MaxProjectsSaved>
+  <RecentProjects xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="2" z:Size="1">
+    <d2p1:string z:Id="3">D:\my_files\courses\AUTOSAR_sptints\7) RTE\Tasks\task-2_sender_resciver\sender_resceiver_com.xml</d2p1:string>
+  </RecentProjects>
+</ToolSettings>
